@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alextz307
+- 👋 Hi, I’m Alex!
 - 👀 I’m interested in competitive programming.
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me: alexofficialadress7@gmail.com(email adress).
