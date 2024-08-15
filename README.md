@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Alex!
 - 👀 I’m interested in Competitive Programming and Software Development.
-- 📫 How to reach me: alexofficialadress7@gmail.com (email adress).
+- 📫 How to reach me: alexandru.lorintz2004@gmail.com (email adress).
