@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS and Docker**
 
-- 📫 How to reach me **alexandru.lorintz2004@gmail.com**
+- 📫 How to reach me: **alexandru.lorintz2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
