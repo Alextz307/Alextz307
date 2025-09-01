@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alextz307" alt="alextz307" /></a> </p>
 
-- 🌱 I’m currently learning **AWS and Docker**
-
 - 📫 How to reach me: **alexandru.lorintz2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
